@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1765021300981",
+    "views": 0,
+    "publishedAt": "2025-12-06",
+    "title": "test",
+    "slug": "test",
+    "category": "ERP Development",
+    "content": "\n```javascript\nsancsdv\nsd\nsd\nv\nsd\nv\nsd\nv\nsd\nv\nsd\nv\nsd\nv\n```\n",
+    "excerpt": "amslcknadnc sakcbisd sdcnsdjcnsdjndcd skc",
+    "tags": [
+      "sdvsd",
+      "sd",
+      "ds",
+      "s"
+    ],
+    "published": true,
+    "readTime": "1 min"
+  },
+  {
+    "id": "1",
+    "title": "Understanding SAP ABAP Development Best Practices",
+    "slug": "sap-abap-best-practices",
+    "excerpt": "A comprehensive guide to writing clean and maintainable ABAP code in SAP development.",
+    "content": "\n```python\nfdashcjkasbcjksabvbd bdso nosd\n```\n",
+    "category": "SAP Development",
+    "tags": [
+      "SAP",
+      "ABAP",
+      "Best Practices"
+    ],
+    "published": true,
+    "publishedAt": "2025-12-02",
+    "views": 1243,
+    "readTime": "1 min"
+  },
+  {
+    "id": "2",
+    "title": "Integrating ERP Systems with Modern Web Technologies",
+    "slug": "erp-web-integration",
+    "excerpt": "Learn how to bridge traditional ERP systems with modern web frameworks and APIs.",
+    "content": "",
+    "category": "Integration",
+    "tags": [
+      "ERP",
+      "Web Dev",
+      "APIs"
+    ],
+    "published": true,
+    "publishedAt": "2025-11-28",
+    "views": 892,
+    "readTime": "10 min"
+  }
+]
